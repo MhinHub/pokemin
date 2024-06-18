@@ -71,7 +71,7 @@
       @apply border-border;
     }
     body {
-      @apply bg-background text-foreground overflow-x-hidden;
+      @apply bg-background text-foreground overflow-x-hidden font-sora;
     }
     h1 {
       @apply text-4xl md:text-6xl lg:text-8xl font-bold;
